@@ -25,5 +25,5 @@ function sayHiToGrandma(string) {
 }
 
   string.toUpperCase
-}
+
 console.log(string)
